@@ -1,0 +1,14 @@
+[package]
+name = "fluxure"
+version = "0.0.1"
+authors = ["Thomas Topp <thomas.topp@topp.solutions>"]
+edition = "2021"
+description = "A flow-based programming framework"
+readme = "README.md"
+homepage = "https://topp.solutions/fluxure"
+repository = "https://github.com/topp-solutions/fluxure"
+license = "MIT OR Apache-2.0"
+keywords = ["flow-based", "gui", "wasm"]
+categories = ["science", "visualization"]
+
+[dependencies]

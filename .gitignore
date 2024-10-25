@@ -1,0 +1,6 @@
+# Cargo build folder
+/target
+# Nix build folder
+/result
+# Direnv folder
+/.direnv
