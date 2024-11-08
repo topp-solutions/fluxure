@@ -1,6 +1,6 @@
 [package]
 name = "fluxure"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Thomas Topp <thomas.topp@topp.solutions>"]
 edition = "2021"
 description = "A flow-based programming framework"
