@@ -5,7 +5,7 @@
 [![Codecov](https://codecov.io/github/topp-solutions/fluxure/coverage.svg?branch=main)](https://codecov.io/gh/topp-solutions/fluxure)
 [![Dependency status](https://deps.rs/repo/github/topp-solutions/fluxure/status.svg)](https://deps.rs/repo/github/topp-solutions/fluxure)
 
-A flow-based programming framework written in Rust.
+A flow-based data processing framework written in Rust.
 
 ## Overview
 

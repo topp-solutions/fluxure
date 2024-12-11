@@ -1,6 +1,6 @@
 #!/usr/bin/env -S just --justfile
 
-# Run GitHub Actions locally (available actions: `pull`, `pull_request`, `schedule`)
+# Run GitHub Actions locally (available actions: `push`, `pull_request`, `schedule`)
 github action:
     act {{action}}
 # List all available GitHub Actions
